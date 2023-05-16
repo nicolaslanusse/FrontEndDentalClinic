@@ -12,7 +12,6 @@ const Header = () => {
             <Link to='/'>
               <Button mr={5} size='md' variant='ghost' colorScheme='blue'>Inicio</Button>
             </Link>
-            <Button mr={5} size='md' variant='ghost' colorScheme='blue'>Centros</Button>
             <Button size='md' variant='ghost' colorScheme='blue'>Contacto</Button>
           </Flex>
           <Flex
